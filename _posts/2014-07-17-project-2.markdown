@@ -1,0 +1,15 @@
+---
+title: Sueño
+subtitle: Diseño web
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: Marzo 2015
+client: Pepe
+category: Desarrollo web
+description: Se desarrollo el  diseño de un web site, desde la concepción de la idea hasta su desarrollo y despliegue  en la web 
+---
+
