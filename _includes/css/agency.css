@@ -123,7 +123,7 @@ fieldset[disabled] .btn-primary.active {
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #37474F;
+    background-color: #{{ site.color.primary }};
 }
 
 .btn-xl:hover,
@@ -250,7 +250,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #283593 ;
+        background-color: #283593; /*#01579B*/;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
