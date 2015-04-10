@@ -10,6 +10,7 @@ description: "Somos un estudio de desarrollo web . Estamos dispuestos a guiarte 
 color:
   primary: fed136
   secondary: fec503 
+  tertiary: 37474F
   secondary-dark: 333
 
 # Team names, titles and social links
