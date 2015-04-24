@@ -77,14 +77,12 @@ h6 {
 
 }
 
-h2,h3{
-    
-}
+
 
 .col-lg-12 {
   width: 100%;
   margin-bottom: 30px;
-  border: 2px solid peru;
+  border: 2px solid red;
 }
 
 .img-centered {
