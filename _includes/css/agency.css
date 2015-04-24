@@ -429,6 +429,8 @@ section h3.section-subheading {
     position: relative;
     padding: 0;
     list-style: none;
+    margin-bottom: 10px;
+    color: black;
 }
 
 .timeline:before {
