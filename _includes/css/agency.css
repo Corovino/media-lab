@@ -81,6 +81,11 @@ h2,h3{
     margin-top: 200px;
 }
 
+.col-lg-12 {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
 .img-centered {
     margin: 0 auto;
 }
